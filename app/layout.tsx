@@ -1,8 +1,9 @@
 import type { Metadata } from "next";
-import { Inter } from "next/font/google";
+import { Montserrat } from "next/font/google";
 import "./globals.css";
+import { Header } from "./components/header-input";
 
-const inter = Inter({ subsets: ["latin"] });
+const mont = Montserrat({ weight: ["300", "400", "600", "800"], subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -16,7 +17,13 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={mont.className}>
+        <div className="flex flex-col justify-center w-[90%] m-auto">
+          <Header />
+          
+          {children}
+        </div>
+      </body>
     </html>
   );
 }

@@ -1,0 +1,85 @@
+{
+    "kind": "books#volume",
+    "id": "JxqDDwAAQBAJ",
+    "etag": "0mShAxwoazI",
+    "selfLink": " ",
+    "volumeInfo": {
+      "title": "Meditações",
+      "authors": [
+        "Marco Aurélio"
+      ],
+      "publisher": "Kiron Editora Ltda-Me",
+      "description": "\u003cp\u003eOs escritos de Marco Aurélio apresentam bem as ideias estóicas que    giram em torno da negação de uma emoção, de uma habilidade, que, segundo    o imperador, libertarão o homem das dores e dos prazeres do mundo    material. A única maneira de um homem ser atingido pelos outros seria se    ele permitisse que sua reação tomasse conta de si. Marco Aurélio não    mostra qualquer fé religiosa em particular nos seus escritos, mas    parecia acreditar que algum tipo de força lógica e benevolente    organizasse o universo de tal maneira que até mesmo os acontecimentos    &quot;ruins&quot; ocorressem para o bem do todo. \u003cbr\u003e\u003c/p\u003e",
+      "industryIdentifiers": [
+        {
+          "type": "ISBN_10",
+          "identifier": "8581130305"
+        },
+        {
+          "type": "ISBN_13",
+          "identifier": "9788581130309"
+        }
+      ],
+      "readingModes": {
+        "text": true,
+        "image": true
+      },
+      "pageCount": 158,
+      "printedPageCount": 158,
+      "printType": "BOOK",
+      "categories": [
+        "Philosophy / General"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.1.0.preview.3",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/publisher/content?id=JxqDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&imgtk=AFLRE70sfyxjaM4qZ8zxAJlo0v9ewt7SVOn8SN9dCLqob2mhDAZnetcL2J6yghKstvYT8ok0f_9icf201Ur1kRKwWT2OmfMcZsTyTbfwNz-6dKVXmYgZIPM&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/publisher/content?id=JxqDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE72dqRNEc1QzX-un_iO5ObRu460br1A-44troQVuz9wd_sDsd7cMpAT61IwaBBBOgz5W1WqQO3nGTXiciDJ3ihK17XSmjdws5TUbJzr_hJduUi-i89w&source=gbs_api",
+        "small": "http://books.google.com/books/publisher/content?id=JxqDDwAAQBAJ&printsec=frontcover&img=1&zoom=2&edge=curl&imgtk=AFLRE72mm1Ms8oxYxgQ__JGcSx0MJdsF0TdJlKpXH3o2Ddn4A57iwRgGQXZTyeMCuPZ3xT3NbC1_RteWNvB61K2R_om_B5WipzONodZwIZMA97eqoZIvvqs&source=gbs_api",
+        "medium": "http://books.google.com/books/publisher/content?id=JxqDDwAAQBAJ&printsec=frontcover&img=1&zoom=3&edge=curl&imgtk=AFLRE7024scB0LHD2twRdThtg9yNxNI6EcBs4xm3DpI_CSybhGWrw4vqda4yPI9kKlEc0fnPqP7d6DjnYsBgCOrGDkfhRZCMY5RoudfD96Pk9Q5KQIbg3Ro&source=gbs_api",
+        "large": "http://books.google.com/books/publisher/content?id=JxqDDwAAQBAJ&printsec=frontcover&img=1&zoom=4&edge=curl&imgtk=AFLRE727vOgdQs0ce3gtigC751AyN2hEWpHL04NCRdIZBrw7AqsSX2YN8k1iSi9hY9DVvLFrauWWVuywcMpjozD4PqJo6n5yUxriu8L3f9V1s6cL4UMZozI&source=gbs_api",
+        "extraLarge": "http://books.google.com/books/publisher/content?id=JxqDDwAAQBAJ&printsec=frontcover&img=1&zoom=6&edge=curl&imgtk=AFLRE73GGWLmQPUUKkrZOXfV47Y7iXmkqsiMwotUo4_vD3tXq2gl6VLsJg2IXYhR8v1OwKA6qZs0V7HzTYHHDUFWiT7PC8q-Haelxmlgs15p2i-d_zmsf1M&source=gbs_api"
+      },
+      "language": "pt-BR",
+      "previewLink": "http://books.google.com.br/books?id=JxqDDwAAQBAJ&hl=&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=JxqDDwAAQBAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JxqDDwAAQBAJ"
+    },
+    "layerInfo": {
+      "layers": [
+        {
+          "layerId": "geo",
+          "volumeAnnotationsVersion": "2"
+        }
+      ]
+    },
+    "saleInfo": {
+      "country": "BR",
+      "saleability": "NOT_FOR_SALE",
+      "isEbook": false
+    },
+    "accessInfo": {
+      "country": "BR",
+      "viewability": "PARTIAL",
+      "embeddable": true,
+      "publicDomain": false,
+      "textToSpeechPermission": "ALLOWED",
+      "epub": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com.br/books/download/Medita%C3%A7%C3%B5es-sample-epub.acsm?id=JxqDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "pdf": {
+        "isAvailable": true,
+        "acsTokenLink": "http://books.google.com.br/books/download/Medita%C3%A7%C3%B5es-sample-pdf.acsm?id=JxqDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+      },
+      "webReaderLink": "http://play.google.com/books/reader?id=JxqDDwAAQBAJ&hl=&source=gbs_api",
+      "accessViewStatus": "SAMPLE",
+      "quoteSharingAllowed": false
+    }
+  }
+  
